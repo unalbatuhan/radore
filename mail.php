@@ -14,7 +14,7 @@ $mail->WordWrap = 50;
 $mail->IsHTML(true);
 
 $smtpuser = "isminiz@alanadiniz.com";
-$smtphost = "mail.alanadiniz.com";
+$smtphost = "smtp.radorehosting.com";
 $smtpport = "587";
 $smtppass = "mailsifreniz";
 
