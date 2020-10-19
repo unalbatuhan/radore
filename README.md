@@ -1,2 +1,1 @@
-# radore
-Radore DC
+# radore Radore DC
